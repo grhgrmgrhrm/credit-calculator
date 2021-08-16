@@ -2,7 +2,10 @@
 
 > Простой калькулятор для подсчета кредита на React
 
+Обсудить здесь: https://unicoding.dev/react
+
 Передвигайте ползунки для подсчета оптимальной кредитной нагрузки
+
 ## Preview
 
 ![credit-calc](credit-calc.gif "credit-calc")
